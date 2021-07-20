@@ -1,0 +1,52 @@
+body {
+  background-color: #E5FBB8;
+  text-align: center;
+  font-family: 'Odibee Sans', cursive;
+  font-size: 40px;
+}
+
+.self {
+  height: 200px;
+}
+.iit{
+  height: 500px;
+}
+
+img {
+  height: 290px;
+  max-width: 100%;
+}
+hr {
+  border-style: none;
+  border-top-style: solid;
+  border-width: 3px;
+}
+h1 {
+  color: #112D4E;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 80px;
+}
+
+h2 {
+  color: #311D3F;
+  font-family: 'Supermercado One', cursive;
+  font-size: 50px;
+}
+
+h3 {
+  color: #6A2C70;
+  font-family: 'Supermercado One', cursive;
+  font-size: 50px;
+}
+
+.fa {
+  height: 100px;
+}
+
+.in {
+  height: 90px;
+}
+
+.btn:hover {
+  background-color: gold;
+}
